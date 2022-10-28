@@ -1,2 +1,4 @@
 # New_Repository
-This is my first repository GitHub
+## Section 1
+This is my first repository GitHub. <br>
+This is second line
